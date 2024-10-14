@@ -1,0 +1,21 @@
+{"time":"2024-10-13T17:23:32.621982-05:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T17:23:32.622035-05:00","level":"INFO","msg":"created symlink","path":"/Users/hamidosooli/PycharmProjects/MARL/COMA/wandb/run-20241013_172332-trc98ysf/logs/debug-core.log"}
+{"time":"2024-10-13T17:23:32.622167-05:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T17:23:32.622176-05:00","level":"INFO","msg":"created symlink","path":"/Users/hamidosooli/PycharmProjects/MARL/COMA/wandb/run-20241013_172332-trc98ysf/logs/debug-core.log"}
+{"time":"2024-10-13T17:23:32.627317-05:00","level":"INFO","msg":"created new stream","id":"trc98ysf"}
+{"time":"2024-10-13T17:23:32.627347-05:00","level":"INFO","msg":"stream: started","id":"trc98ysf"}
+{"time":"2024-10-13T17:23:32.62737-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"trc98ysf"}}
+{"time":"2024-10-13T17:23:32.627389-05:00","level":"INFO","msg":"sender: started","stream_id":{"value":"trc98ysf"}}
+{"time":"2024-10-13T17:23:32.627414-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"trc98ysf"}}
+{"time":"2024-10-13T17:23:32.762552-05:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T17:23:32.763856-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T17:23:33.501253-05:00","level":"INFO","msg":"stream: closing","id":"trc98ysf"}
+{"time":"2024-10-13T17:23:33.501268-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T17:23:33.501291-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T17:23:33.545945-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-13T17:23:33.545956-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-13T17:23:33.545961-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-13T17:23:33.843346-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"trc98ysf"}}
+{"time":"2024-10-13T17:23:33.843362-05:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"trc98ysf"}}
+{"time":"2024-10-13T17:23:33.843357-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"trc98ysf"}}
+{"time":"2024-10-13T17:23:33.84371-05:00","level":"INFO","msg":"stream: closed","id":"trc98ysf"}

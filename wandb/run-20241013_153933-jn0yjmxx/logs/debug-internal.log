@@ -1,0 +1,21 @@
+{"time":"2024-10-13T15:39:33.695498-05:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T15:39:33.695555-05:00","level":"INFO","msg":"created symlink","path":"/Users/hamidosooli/PycharmProjects/MARL/COMA/wandb/run-20241013_153933-jn0yjmxx/logs/debug-core.log"}
+{"time":"2024-10-13T15:39:33.695634-05:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T15:39:33.695649-05:00","level":"INFO","msg":"created symlink","path":"/Users/hamidosooli/PycharmProjects/MARL/COMA/wandb/run-20241013_153933-jn0yjmxx/logs/debug-core.log"}
+{"time":"2024-10-13T15:39:33.703099-05:00","level":"INFO","msg":"created new stream","id":"jn0yjmxx"}
+{"time":"2024-10-13T15:39:33.703123-05:00","level":"INFO","msg":"stream: started","id":"jn0yjmxx"}
+{"time":"2024-10-13T15:39:33.703166-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"jn0yjmxx"}}
+{"time":"2024-10-13T15:39:33.703293-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"jn0yjmxx"}}
+{"time":"2024-10-13T15:39:33.703316-05:00","level":"INFO","msg":"sender: started","stream_id":{"value":"jn0yjmxx"}}
+{"time":"2024-10-13T15:39:33.873187-05:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T15:39:33.876116-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T15:39:34.379484-05:00","level":"INFO","msg":"stream: closing","id":"jn0yjmxx"}
+{"time":"2024-10-13T15:39:34.379513-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T15:39:34.379576-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T15:39:34.441089-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-13T15:39:34.441102-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-13T15:39:34.441107-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-13T15:39:34.773375-05:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"jn0yjmxx"}}
+{"time":"2024-10-13T15:39:34.773356-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"jn0yjmxx"}}
+{"time":"2024-10-13T15:39:34.773366-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"jn0yjmxx"}}
+{"time":"2024-10-13T15:39:34.773708-05:00","level":"INFO","msg":"stream: closed","id":"jn0yjmxx"}

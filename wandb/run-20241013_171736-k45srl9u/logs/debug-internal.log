@@ -1,0 +1,21 @@
+{"time":"2024-10-13T17:17:36.35311-05:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T17:17:36.353189-05:00","level":"INFO","msg":"created symlink","path":"/Users/hamidosooli/PycharmProjects/MARL/COMA/wandb/run-20241013_171736-k45srl9u/logs/debug-core.log"}
+{"time":"2024-10-13T17:17:36.353304-05:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T17:17:36.353313-05:00","level":"INFO","msg":"created symlink","path":"/Users/hamidosooli/PycharmProjects/MARL/COMA/wandb/run-20241013_171736-k45srl9u/logs/debug-core.log"}
+{"time":"2024-10-13T17:17:36.359318-05:00","level":"INFO","msg":"created new stream","id":"k45srl9u"}
+{"time":"2024-10-13T17:17:36.359355-05:00","level":"INFO","msg":"stream: started","id":"k45srl9u"}
+{"time":"2024-10-13T17:17:36.359378-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"k45srl9u"}}
+{"time":"2024-10-13T17:17:36.359398-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"k45srl9u"}}
+{"time":"2024-10-13T17:17:36.359391-05:00","level":"INFO","msg":"sender: started","stream_id":{"value":"k45srl9u"}}
+{"time":"2024-10-13T17:17:36.520657-05:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T17:17:36.522364-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T17:17:37.239889-05:00","level":"INFO","msg":"stream: closing","id":"k45srl9u"}
+{"time":"2024-10-13T17:17:37.239916-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T17:17:37.239938-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T17:17:37.280493-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-13T17:17:37.280506-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-13T17:17:37.280512-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-13T17:17:37.598402-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"k45srl9u"}}
+{"time":"2024-10-13T17:17:37.598417-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"k45srl9u"}}
+{"time":"2024-10-13T17:17:37.598773-05:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"k45srl9u"}}
+{"time":"2024-10-13T17:17:37.599103-05:00","level":"INFO","msg":"stream: closed","id":"k45srl9u"}

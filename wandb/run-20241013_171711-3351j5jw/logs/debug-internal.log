@@ -1,0 +1,11 @@
+{"time":"2024-10-13T17:17:11.803761-05:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T17:17:11.803815-05:00","level":"INFO","msg":"created symlink","path":"/Users/hamidosooli/PycharmProjects/MARL/COMA/wandb/run-20241013_171711-3351j5jw/logs/debug-core.log"}
+{"time":"2024-10-13T17:17:11.803888-05:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T17:17:11.803896-05:00","level":"INFO","msg":"created symlink","path":"/Users/hamidosooli/PycharmProjects/MARL/COMA/wandb/run-20241013_171711-3351j5jw/logs/debug-core.log"}
+{"time":"2024-10-13T17:17:11.809128-05:00","level":"INFO","msg":"created new stream","id":"3351j5jw"}
+{"time":"2024-10-13T17:17:11.809156-05:00","level":"INFO","msg":"stream: started","id":"3351j5jw"}
+{"time":"2024-10-13T17:17:11.809186-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"3351j5jw"}}
+{"time":"2024-10-13T17:17:11.809315-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"3351j5jw"}}
+{"time":"2024-10-13T17:17:11.809334-05:00","level":"INFO","msg":"sender: started","stream_id":{"value":"3351j5jw"}}
+{"time":"2024-10-13T17:17:12.197175-05:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T17:17:12.200107-05:00","level":"INFO","msg":"Starting system monitor"}

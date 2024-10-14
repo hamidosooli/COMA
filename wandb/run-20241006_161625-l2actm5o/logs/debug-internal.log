@@ -1,0 +1,11 @@
+{"time":"2024-10-06T16:16:25.635622-05:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-06T16:16:25.63565-05:00","level":"INFO","msg":"created symlink","path":"/Users/hamidosooli/PycharmProjects/MARL/COMA/wandb/run-20241006_161625-l2actm5o/logs/debug-core.log"}
+{"time":"2024-10-06T16:16:25.635697-05:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-06T16:16:25.635703-05:00","level":"INFO","msg":"created symlink","path":"/Users/hamidosooli/PycharmProjects/MARL/COMA/wandb/run-20241006_161625-l2actm5o/logs/debug-core.log"}
+{"time":"2024-10-06T16:16:25.63931-05:00","level":"INFO","msg":"created new stream","id":"l2actm5o"}
+{"time":"2024-10-06T16:16:25.639354-05:00","level":"INFO","msg":"stream: started","id":"l2actm5o"}
+{"time":"2024-10-06T16:16:25.639362-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"l2actm5o"}}
+{"time":"2024-10-06T16:16:25.639399-05:00","level":"INFO","msg":"sender: started","stream_id":{"value":"l2actm5o"}}
+{"time":"2024-10-06T16:16:25.639408-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"l2actm5o"}}
+{"time":"2024-10-06T16:16:25.89907-05:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-06T16:16:25.900051-05:00","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,13 @@
+  0%|          | 0/100000 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/Users/hamidosooli/PycharmProjects/MARL/COMA/training.py", line 124, in <module>
+    actors_grad_norm = alg.optimize_actors()
+  File "/Users/hamidosooli/PycharmProjects/MARL/COMA/alg.py", line 69, in optimize_actors
+    self.actors_loss.backward()
+  File "/Users/hamidosooli/PycharmProjects/pythonProject1/venv/lib/python3.9/site-packages/torch/_tensor.py", line 521, in backward
+    torch.autograd.backward(
+  File "/Users/hamidosooli/PycharmProjects/pythonProject1/venv/lib/python3.9/site-packages/torch/autograd/__init__.py", line 289, in backward
+    _engine_run_backward(
+  File "/Users/hamidosooli/PycharmProjects/pythonProject1/venv/lib/python3.9/site-packages/torch/autograd/graph.py", line 769, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+RuntimeError: one of the variables needed for gradient computation has been modified by an inplace operation: [MPSFloatType [125, 128]] is at version 2; expected version 1 instead. Hint: enable anomaly detection to find the operation that failed to compute its gradient, with torch.autograd.set_detect_anomaly(True).

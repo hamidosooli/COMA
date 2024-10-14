@@ -1,0 +1,11 @@
+{"time":"2024-10-13T15:52:55.873957-05:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T15:52:55.873998-05:00","level":"INFO","msg":"created symlink","path":"/Users/hamidosooli/PycharmProjects/MARL/COMA/wandb/run-20241013_155255-6tv4orax/logs/debug-core.log"}
+{"time":"2024-10-13T15:52:55.874079-05:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T15:52:55.874088-05:00","level":"INFO","msg":"created symlink","path":"/Users/hamidosooli/PycharmProjects/MARL/COMA/wandb/run-20241013_155255-6tv4orax/logs/debug-core.log"}
+{"time":"2024-10-13T15:52:55.881114-05:00","level":"INFO","msg":"created new stream","id":"6tv4orax"}
+{"time":"2024-10-13T15:52:55.881159-05:00","level":"INFO","msg":"stream: started","id":"6tv4orax"}
+{"time":"2024-10-13T15:52:55.88116-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"6tv4orax"}}
+{"time":"2024-10-13T15:52:55.881247-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"6tv4orax"}}
+{"time":"2024-10-13T15:52:55.881268-05:00","level":"INFO","msg":"sender: started","stream_id":{"value":"6tv4orax"}}
+{"time":"2024-10-13T15:52:56.04316-05:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T15:52:56.045561-05:00","level":"INFO","msg":"Starting system monitor"}

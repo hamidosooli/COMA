@@ -1,0 +1,5 @@
+  0%|          | 0/750 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/Users/hamidosooli/PycharmProjects/MARL/COMA/training.py", line 115, in <module>
+    wandb.log({"target_mean": torch.mean(torch.cat(targets)),
+TypeError: expected Tensor as element 0 in argument 0, but got float

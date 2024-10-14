@@ -1,0 +1,33 @@
+{
+  "os": "macOS-15.0.1-arm64-arm-64bit",
+  "python": "3.9.6",
+  "startedAt": "2024-10-13T19:54:43.913399Z",
+  "program": "/Users/hamidosooli/PycharmProjects/MARL/COMA/training.py",
+  "codePath": "training.py",
+  "email": "hamid.osooli@gmail.com",
+  "root": "/Users/hamidosooli/PycharmProjects/MARL/COMA",
+  "host": "Hamids-MacBook-Pro-139.local",
+  "username": "hamidosooli",
+  "executable": "/Users/hamidosooli/PycharmProjects/pythonProject1/venv/bin/python",
+  "codePathLocal": "training.py",
+  "cpu_count": 10,
+  "cpu_count_logical": 10,
+  "disk": {
+    "/": {
+      "total": "994662584320",
+      "used": "795368529920"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "cpu": {
+    "count": 10,
+    "countLogical": 10
+  },
+  "gpuapple": {
+    "gpuType": "Apple M1 Pro",
+    "vendor": "sppci_vendor_Apple",
+    "cores": 16
+  }
+}

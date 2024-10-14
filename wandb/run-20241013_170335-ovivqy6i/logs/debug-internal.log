@@ -1,0 +1,21 @@
+{"time":"2024-10-13T17:03:35.22799-05:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T17:03:35.22804-05:00","level":"INFO","msg":"created symlink","path":"/Users/hamidosooli/PycharmProjects/MARL/COMA/wandb/run-20241013_170335-ovivqy6i/logs/debug-core.log"}
+{"time":"2024-10-13T17:03:35.22872-05:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T17:03:35.228751-05:00","level":"INFO","msg":"created symlink","path":"/Users/hamidosooli/PycharmProjects/MARL/COMA/wandb/run-20241013_170335-ovivqy6i/logs/debug-core.log"}
+{"time":"2024-10-13T17:03:35.234039-05:00","level":"INFO","msg":"created new stream","id":"ovivqy6i"}
+{"time":"2024-10-13T17:03:35.234075-05:00","level":"INFO","msg":"stream: started","id":"ovivqy6i"}
+{"time":"2024-10-13T17:03:35.234096-05:00","level":"INFO","msg":"sender: started","stream_id":{"value":"ovivqy6i"}}
+{"time":"2024-10-13T17:03:35.234094-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ovivqy6i"}}
+{"time":"2024-10-13T17:03:35.234146-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ovivqy6i"}}
+{"time":"2024-10-13T17:03:35.390089-05:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T17:03:35.391797-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T17:03:40.117746-05:00","level":"INFO","msg":"stream: closing","id":"ovivqy6i"}
+{"time":"2024-10-13T17:03:40.117778-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T17:03:40.117815-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T17:03:40.56169-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-13T17:03:40.561779-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-13T17:03:40.561808-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-13T17:03:40.876408-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ovivqy6i"}}
+{"time":"2024-10-13T17:03:40.876435-05:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"ovivqy6i"}}
+{"time":"2024-10-13T17:03:40.876431-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ovivqy6i"}}
+{"time":"2024-10-13T17:03:40.876606-05:00","level":"INFO","msg":"stream: closed","id":"ovivqy6i"}

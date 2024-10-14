@@ -1,0 +1,11 @@
+{"time":"2024-09-25T09:07:54.991998-05:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-25T09:07:54.99205-05:00","level":"INFO","msg":"created symlink","path":"/Users/hamidosooli/PycharmProjects/MARL/COMA/wandb/run-20240925_090754-xjr61uep/logs/debug-core.log"}
+{"time":"2024-09-25T09:07:54.992125-05:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-25T09:07:54.992132-05:00","level":"INFO","msg":"created symlink","path":"/Users/hamidosooli/PycharmProjects/MARL/COMA/wandb/run-20240925_090754-xjr61uep/logs/debug-core.log"}
+{"time":"2024-09-25T09:07:55.00079-05:00","level":"INFO","msg":"created new stream","id":"xjr61uep"}
+{"time":"2024-09-25T09:07:55.000826-05:00","level":"INFO","msg":"stream: started","id":"xjr61uep"}
+{"time":"2024-09-25T09:07:55.000908-05:00","level":"INFO","msg":"sender: started","stream_id":{"value":"xjr61uep"}}
+{"time":"2024-09-25T09:07:55.000831-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"xjr61uep"}}
+{"time":"2024-09-25T09:07:55.00092-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"xjr61uep"}}
+{"time":"2024-09-25T09:07:55.151433-05:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-25T09:07:55.153515-05:00","level":"INFO","msg":"Starting system monitor"}
