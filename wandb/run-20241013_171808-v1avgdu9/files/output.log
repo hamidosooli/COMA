@@ -1,7 +1,0 @@
-  0%|          | 0/100000 [00:00<?, ?it/s]
-Traceback (most recent call last):
-  File "/Users/hamidosooli/PycharmProjects/MARL/COMA/training.py", line 124, in <module>
-    actors_grad_norm = alg.optimize_actors()
-  File "/Users/hamidosooli/PycharmProjects/MARL/COMA/alg.py", line 69, in optimize_actors
-    self.actors_loss.backward()
-AttributeError: 'float' object has no attribute 'backward'
