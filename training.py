@@ -35,8 +35,7 @@ for eps in tqdm(range(int(alg.num_episodes))):
     '''
     state = env.state()
     t = 0
-    hidden_state = [alg.actors_net.init_hidden().to(device) for _ in range(alg.num_agents)]
-
+    hidden_state = alg.actors_net.init_hidden().to(device)
     termination = False
     truncation = False
     # initial random action
@@ -61,8 +60,8 @@ for eps in tqdm(range(int(alg.num_episodes))):
                 # make a vector out of the agent's local information (o, a, i)
                 actor_inp = torch.cat([observation, action, agent_id], -1)
                 # get the q and update the hidden state for the actor
-                q, hidden_state_ = alg.actors_net(actor_inp.unsqueeze(0), hidden_state[agent_id])
-                hidden_state[agent_id] = hidden_state_
+                q, hidden_state = alg.actors_net(actor_inp.unsqueeze(0), hidden_state[agent_id])
+
                 # softmax over the calculated action values to get the policy
                 policy = F.softmax(q, -1)
                 # argmax over the policy values to calculate the taken action

@@ -22,7 +22,7 @@ class COMA:
         self.memory_size = self.batch_size
         self.gamma = 0.99
         self.critic_lambda = 0.8
-        self.learning_rate = 5e-4
+        self.learning_rate = 3e-4
         self.tau = 0.005
         self.agent_batch = int(self.batch_size / self.num_agents)
         self.memory = {'agent_id': torch.zeros(self.agent_batch, self.num_agents, 1),
@@ -134,6 +134,7 @@ class COMA:
         # calculation of the baseline
         baseline = critic_value_ * self.team_memory['policy']
         baseline = baseline.sum(dim=-1).detach()
+
         # calculation of the advantage
         advantage = critic_value - baseline.unsqueeze(-1)
 
