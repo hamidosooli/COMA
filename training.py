@@ -42,7 +42,7 @@ for eps in tqdm(range(int(alg.num_episodes))):
     action = torch.randint(0, alg.num_actions, (1,), device=device).item()
     while not termination and t < alg.agent_batch:
 
-        for agent in env.agent_iter(max_iter=alg.num_agents):
+        for agent in env.agent_iter(max_iter=alg.batch_size):
             # update the agent's local observation and get the reward
             observation, reward, termination, truncation, info = env.last()
             # change the observation vector into a torch tensor
